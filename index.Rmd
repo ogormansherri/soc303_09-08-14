@@ -1,0 +1,214 @@
+---
+title       : Chapter 3 Defining Variables
+subtitle    : Soc 303 Lecture Notes 4
+Date        : 9/8/14
+author      : Sherri Verdugo, M.S.
+job         : Lecturer, CSUF
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [mathjax, quiz, bootstrap]      # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Administration Items 
+
+1. Wrap Up First Two Weeks
+2. Schedule for the Semester (PDF)
+3. Attendance
+4. Chapter 3
+5. Upcoming Events
+
+--- .class #id 
+
+## Key Concepts
+
+Term                            | Page | Term                     | Page   
+--------------------------------|------|--------------------------|------
+Demographic Data                | 65   | Content Validity         | 74 
+Operational/Working Definitions | 66   | Criterion Validity       | 75
+Conceptual Definitions          | 67   | Construct Validity       | 75
+Items (on an index or scale)    | 71   | Reliability              | 76
+Index (scale Construction)      | 71   | Split-half Reliability   | 76
+Validity                        | 73   | Test-Retest Reliability  | 77
+Face Validity                   | 74   |
+
+--- .class #id
+
+## Prologue Discussion
+
+Recently, I was discussing with colleagues about appropriate use of technology in a classroom. A friend of mine is starting her academic instructor career and was mentioning about how students can use/misuse technology. The main discussion hinged on the operational definition that was mentioned briefly throughout the conversation. In addition, the debate was sparked because the communication process of the operational/working definition was constantly evolving until a group consensus was reached. So, how would we define a research process? What techniques can shape our world? What techniques can change our research process?
+
+This chapter is devoted to the proper steps and vocabulary needed to engage in a social science research process. It is meant to give you a deeper understanding of how research projects are created, evaluated as a project, and how we work to shape the project so that we can statistically evaluate what we initially set out to investigate. 
+
+In order to not skew the research, we define an item we want to study and follow the techniques in this chapter. The examples will be using the conversation from FB regarding technology use in a classroom from a sociological perspective.
+
+--- .class &radio
+
+## Introduction and Example from Prologue
+
+Class participation: What items do we need to investigate the use/misuse of technology in a classroom from a sociological and statistical perspective? Let's check all that apply.
+
+*  http://www.library.fullerton.edu/research/
+
+1. _How do we define use/misuse of technology in a classroom._
+2. Where does Sherri come up with these examples?
+3. _Where can we obtain the data?_
+4. _Previous research references (see library link above)._
+5. _Design a measurement scale._
+6. _Check validity and reliability._
+7. Not sure...haven't read the chapter yet.
+
+*** .hint
+
+Looks like something that would come from a textbook. The answers that are not related to the chapter are not correct.
+
+*** .explanation
+
+* Only 1 and 3-6 are correct for this part of our discussion. 
+
+--- .class #id
+
+## Discussion
+
+Let's take a few moments and see what we can come up with using this chapter to relate back to use/misuse of technology in a classroom. We can also change our focus and look at this in terms of a work setting. Equally applicable because we can simply change the operational definition of what we want to study. Or, we can conduct both studies and look at it in terms of academic and business settings.
+
+--- .class #id
+
+## Gathering the Data
+
+Before we can even analyze the data, we have to obtain it (either by ourselves or from a repository). When you are obtaining data from a research, you must obtain IRB permissions. In this class we will be obtaining data from a repository that has a set of data for you to analyze. 
+
+### Demographic Data: 
+background information that gives the social characteristics of a subject.
+
+* age
+* gender
+* socio-economic status
+* level of education
+
+Our analysis is only as accurate as the data we obtain or we analyze. 
+
+--- .class #id
+
+## Operational Definitions
+
+Some instructors refer to this as a working definition. I use the term operational definition. This term is used interchangeably in the textbook. 
+
+Definition: A definition of the way that someone or something will be measured to determine the subjects score on a variable.
+
+* How can we operationally define the following:
+  * Misuse of technology in a classroom setting
+  * Appropriate use of technology in a classroom setting
+  
+Considerations: Is there available data that allows us to evaluate (code) for the item(s) we want to research? Do we have enough time/money to evaluate what we want to study?
+
+--- .class #id
+
+## Conceptual Defintion
+
+A conceptual definition is a general definition of a concept such as one would find in a textbook or dictionary. It is more specific than the operational definition that allows us to develop a research project using items to measure components of a topic we want to study. 
+
+In our case of misuse of technology in a classroom setting....
+
+* to use something (technology) incorrectly
+
+http://www.merriam-webster.com/dictionary/misuse
+
+In our case of appropriate use of technology in a classroom setting...
+
+* suitable or fitting for a particular purpose...
+
+--- .class #id
+
+
+## Index and Scale Construction
+
+In order to measure certain sociological items we use either the Likert Scale (see slides set 3) or a slight variation: the ladder question. Where on a ladder would you place yourself for enjoying a recreation event or a medical event? The type of question drives the response.
+
+* Items: various components (e.g. family values, lifestyle, etc.) to generate a scale or index.
+
+* Index: a range of scores treated as interval or ratio levels of measurement, measuring a phenomenon. 
+
+Class exercise: let's work on page 72 for a few minutes and discuss how the type of question might generate responses.
+
+--- .class #id
+
+## Validity
+
+Validity: the extent to which the concept one wishes to measure is actually being measured by a particular scale or index. In other words: are you measuring what you want to measure?
+
+* Face Validity: extent to which the measure is subjectively viewed by knowledgeable individuals as covering the concepts.
+
+* Content Validity: extent to which the measure covers all the generally accepted meanings of the concept.
+
+* Criterion Validity: the extent to which the measure is able to predict some criterion external to it.
+
+* Construct Validity: the ability of the scale to measure variables that are theoretically related to the variable that the scale purports to measure.
+
+--- .class #id
+
+## Reliability
+
+The likelihood that the scale is actually measuring what it is supposed to measure.
+
+* Split-half reliability: a measure of internal consistency that splits an overall scale into two scales, each containing half of the original items.
+
+* Test-retest reliability: a measure that determines an individual's consistency in responding the same way to a specific item over time.
+
+How likely is it that your scale is measuring what you want it to measure? We are moving into statistics at this point.
+
+--- .class #id
+
+## Conclusions
+
+* Garbage in = Garbage out
+  * Your data analysis is only as good as your data...if it doesn't measure something that you report then your analysis is not going to be appropriate.
+  
+Avoid these situation that result in misleading operational definitions.
+
+1. Ideological assumptions: capital punishment and human rights (page 78)
+2. Situational factors: what is going on during the time of the data collection. I once studied the views of toxicologist on topics that are traditionally just evaluated by toxicologists. The findings didn't deviate from public health...but as soon as I finished the project, the earthquake in Japan that disabled Fukushima Daiichi nuclear disaster happened. Would that have changed my respondents' answers?
+3. Key Word Inconsistency: know what we want to study. Key words are critical in how we classify yourself and others in research.
+4. Poor Predictability: does the operational definition have a poor track record of predicting outcomes. 
+
+Know what you are studying!
+
+--- .class #id
+
+## Exercises
+
+In groups of 2 to 4, work through page 80 exercise 3.1 and 3.2. Send an email to me with the name of the students and your responses.
+
+Note: I will be responding to the last 3 weeks of responses in a text file via email either at the end of this week or the beginning of the next week. For now, most of you are on the correct track! :)
+
+--- .class #id
+
+## Upcoming Events on Wednesday
+
+* Writing Project Draft (Introduction to the project)
+* Read Ch. 4
+* Homework One is coming up
+
+--- .class #id
+
+## Your Turn
+
+Term                            | Page | Example                  |Understanding
+--------------------------------|------|--------------------------|-------------
+Demographic Data                | 65   |                          |
+Operational/Working Definitions | 66   |                          |
+Conceptual Definitions          | 67   |                          |
+Items (on an index or scale)    | 71   |                          |
+Index (scale Construction)      | 71   |                          |
+Validity                        | 73   |                          |
+Face Validity                   | 74   |                          |
+Content Validity                | 74   |                          | 
+Criterion Validity              | 75   |                          |
+Construct Validity              | 75   |                          |
+Reliability                     | 76   |                          |
+Split-half Reliability          | 76   |                          |
+Test-Retest Reliability         | 77   |                          |
+
+--- .class #id
